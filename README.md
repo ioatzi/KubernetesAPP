@@ -36,7 +36,7 @@ kubectl apply -f serv.yaml
 
 
 ## Created by:
-Asimakopoulos Alexandros (https://github.com/Alex-Asim/KubernetesAPP)
+Asimakopoulos Alexandros (https://github.com/Alex-Asim)
 
 Kouloglou Ioannis Omiros (https://github.com/GiannisKouloglou)
 
