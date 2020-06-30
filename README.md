@@ -18,9 +18,7 @@ sudo docker run -d -p 80:80 astzko:v1
 kubectl apply -f depl.yaml
 kubectl apply -f serv.yaml
 
-
-![](images/Architecture Kubernetes Single Node Cluster.jpg)
-
+![Settings Window](https://github.com/ioatzi/KubernetesAPP/blob/master/images/Architecture%20Kubernetes%20Single%20Node%20Cluster.jpg)
 
 
 Creaded by:
