@@ -19,7 +19,7 @@ kubectl apply -f depl.yaml
 kubectl apply -f serv.yaml
 
 
-(https://github.com/ioatzi/KubernetesAPP/blob/master/images/Architecture%20Kubernetes%20Single%20Node%20Cluster.jpg)
+![](images/Architecture Kubernetes Single Node Cluster.jpg)
 
 
 
