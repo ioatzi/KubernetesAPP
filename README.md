@@ -21,7 +21,7 @@ kubectl apply -f serv.yaml
 ![Settings Window](https://github.com/ioatzi/KubernetesAPP/blob/master/images/Architecture%20Kubernetes%20Single%20Node%20Cluster.jpg)
 
 
-Creaded by:
+###Creaded by:
 Asimakopoulos Alexandros
 Kouloglou Ioannis Omiros 
 Tzitzios Ioannis
