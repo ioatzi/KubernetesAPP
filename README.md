@@ -17,4 +17,13 @@ sudo docker run -d -p 80:80 astzko:v1
 ### USE THE YAML FILES TO CREATE DEPLOYMENT AND SERVICE
 kubectl apply -f depl.yaml
 kubectl apply -f serv.yaml
+
+
 (https://github.com/ioatzi/KubernetesAPP/blob/master/images/Architecture%20Kubernetes%20Single%20Node%20Cluster.jpg)
+
+
+
+Creaded by:
+Asimakopoulos Alexandros
+Kouloglou Ioannis Omiros 
+Tzitzios Ioannis
